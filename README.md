@@ -1,6 +1,6 @@
 # Fire Detection using YOLO and Ultralytics
 
-This project is a fire detection system that uses YOLO (You Only Look Once) and the Ultralytics library for real-time fire detection in images and videos. It leverages PyTorch and Ultralytics to achieve high accuracy and performance.
+This project is a fire detection system that uses YOLO (You Only Look Once) and the Ultralytics library for real-time fire detection in images and videos.
 
 ## Requirements
 
