@@ -20,6 +20,13 @@ pip install torch
 pip install ultralytics
 ```
 
+## Mac fixes
+
+```bash
+brew install opencv
+pip uninstall opencv-python
+pip install opencv-python-headless
+```
 ## Clone the Repository
 
 Once the dependencies are installed, clone this repository and navigate into the project folder:
