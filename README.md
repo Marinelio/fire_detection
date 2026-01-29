@@ -5,7 +5,6 @@ This project is a fire detection system that uses YOLO (You Only Look Once) and 
 ## Requirements
 
 * Python 3.6 or higher
-* [PyTorch](https://pytorch.org/) (with CUDA support for GPU acceleration)
 * [Ultralytics YOLO](https://github.com/ultralytics/yolov5)
 
 ## Install Dependencies
@@ -13,19 +12,7 @@ This project is a fire detection system that uses YOLO (You Only Look Once) and 
 To get started, install the necessary libraries:
 
 ```bash
-pip install torch
-```
-
-```bash
 pip install ultralytics
-```
-
-## Mac fixes
-
-```bash
-brew install opencv
-pip uninstall opencv-python
-pip install opencv-python-headless
 ```
 ## Clone the Repository
 
